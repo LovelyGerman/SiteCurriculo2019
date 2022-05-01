@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+
+<html>
+ 
+ <head>
+   
+   
+   <title>Curriculum Gabriel</title>
+
+ <head>
+
+    <body background="imagens/imagens 6.jpg">
+
+             <a href="Página 1.html""> <strong>Clique aqui para voltar ao inicio</strong> </a>
+ 
+         <img src="imagens/imagens 7.jpg" width="328px heigth="240px" alt="Imagem pessoal" align="right" border="10px"/>
+       
+       <h1 align="center"> <strong> Gabriel Henrique Aguiar Vieira </strong> </h1>
+
+                                         <br>
+
+       <h1 align="center"> <strong> Brasileiro, Solteiro, 19 anos </strong> </h1>
+
+                                         <br>
+   
+       <h1 align="center"> <strong> Telefone: (41) 99253-7042 </strong> </h1>
+
+                                         <br>
+
+       <h1 align="center"> <strong> E-mail: gabriel.aguiar.vieira13@gmail.com </strong> </h1>       
+       
+       
+       <h1 align="center">_________________________________________________________________________________</h1>
+
+       
+    
+
+             
+             
+
+              <h1 align="center"> <strong> OBJETIVO </strong> </h1>
+     
+                                 <br>
+
+              <h1 align="center">  <strong> Estágio </strong> </h1>
+            
+
+            
+
+                                       <br>
+      
+                  
+ 
+                    <h1 align="center"> <strong> FORMAÇÃO </strong> </h1>
+                                      
+                                         <br>
+
+                    <h2 align="center"> <strong> Curso: Ensino Médio Completo. </strong> </h2>
+
+                                         
+                     
+                    <h2 align="center"> <strong> Curso: Qualificação Profissional. </strong> </h2>
+           
+                                        
+
+                    <h2 align="center"> <strong> Curso: Informática Aplicada. </strong> </h2>
+                          
+                                        
+      
+                    <h2 align="center"> <strong> Curso: Análise e desenvolvimento de sistemas cursando </strong> </h2>
+
+
+                  
+
+                                        <br>
+ 
+                        
+
+
+                            <h1 align="center"> <strong> QUALIFICAÇÕES E ATIVIDADES PROFISSIONAIS: </strong> </h1>
+
+
+                                                 <br>
+
+
+                        <h2 align="center"> <strong> Curso: Gestão Administrativa;  </strong> </h2>
+
+                        <h2 align="center"> <strong> Curso: Gestão Financeira; </strong> </h2>
+
+                        <h2 align="center"> <strong> Curso: Secretariado; </strong> </h2>
+
+                        <h2 align="center"> <strong> Curso: Propaganda e Marketing;  </strong> </h2>
+
+                        <h2 align="center"> <strong> Curso: Marketing Pessoal;  </strong> </h2>
+
+                        <h2 align="center"> <strong> Curso: Designer gráfico;  </strong> </h2>
+
+                        <h2 align="center"> <strong> Curso: Webdesigner;  </strong> </h2>
+
+                        <h2 align="center"> <strong> Curso: Hardware; </strong> </h2>
+
+                        <h2 align="center"> <strong> Curso: Concluído em Maio de 2017. </strong> </h2>
+
+                       
+                       
+
+
+
+                                                 <br>
+
+ 
+                                  
+
+                              
+                             <h1 align="center"> <strong> Curso: Informática Aplicada na Megaworks: </strong> </h1>
+
+                                                 <br>
+
+                             
+
+                                 <h2 align="center"> <strong> Windows; </strong> </h2>
+
+                                 <h2 align="center"> <strong> Word;  </strong> </h2>
+
+                                 <h2 align="center"> <strong> Power point;  </strong> </h2>
+
+                                 <h2 align="center"> <strong> Internet;  </strong> </h2>
+
+                                 <h2 align="center"> <strong> Corel; </strong> </h2>
+
+                                 <h2 align="center"> <strong> Photoshop;  </strong> </h2>
+
+                                 <h2 align="center"> <strong> Flash;  </strong> </h2>
+
+                                 <h2 align="center"> <strong> Digitação;  </strong> </h2>
+
+                                 <h2 align="center"> <strong> Dreamweaver;  </strong> </h2>
+
+                                 <h2 align="center"> <strong> Concluído em Maio de 2017. </strong> </h2>
+
+           
+                                 
+
+                                                    <br>
+
+
+                                          
+
+
+                                        <h1 align="center"> <strong> INFORMAÇÕES ADICIONAIS </strong> </h1>
+
+ 
+                                                    <br>
+
+                         
+                                    <h2 align="center"> <strong> Sou comunicativo, prestativo, pontual, educado, </strong> </h2>
+                                    <h2 align="center"> <strong> estou sempre disposto a aprender e tenho muita facilidde com trabalho em equipe <strong> </h2> 
+
+           
+
+                                          </body>
+
+</html>

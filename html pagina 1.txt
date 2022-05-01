@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html>
+ <head>
+   <title> Inicio Gabriel </title>
+ </head>
+
+   <body background="imagens/imagem 1.jpg">
+    <h1 align="center"> <strong> Opa quase lá  </strong> </h1>
+    
+    
+         <button class"botao"
+            
+              </button>    
+    
+    <blockquote>
+    <blockquote>
+    <blockquote>
+    <blockquote>
+    <blockquote>
+    <blockquote>
+    <blockquote>
+    <blockquote>
+    <blockquote>
+    <blockquote>
+    <blockquote>
+    <blockquote>
+    <blockquote>
+    <blockquote>
+    
+    <a href="Página 2.html"> <strong>Clique aqui para ver o Currículo</strong> </a>
+   
+    </body>
+
+</html>
